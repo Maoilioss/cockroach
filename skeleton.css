@@ -1,5 +1,9 @@
+body {
+  background-color: antiquewhite;
+}
+
 h1 {
-  font-size: 200px;
+  font-size: 90px;
   background: url(miominmio.jpg);
   background-size: cover;
   -webkit-text-fill-color: transparent;
